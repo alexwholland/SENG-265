@@ -2,7 +2,6 @@
 
 '''
 Seng 265 - icsout2.py
-Alex Holland - V00928553
 '''
 
 import argparse
