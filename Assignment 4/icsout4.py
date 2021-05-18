@@ -1,6 +1,5 @@
 '''
 Seng 265 - Assignment 4
-Alex Holland - V00928553
 '''
 
 import re
